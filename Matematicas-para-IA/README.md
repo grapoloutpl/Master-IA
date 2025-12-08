@@ -1,1 +1,0 @@
-# Matemáticas para IA
